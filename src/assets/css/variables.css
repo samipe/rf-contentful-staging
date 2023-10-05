@@ -70,7 +70,7 @@
 }
 
 :root {
-    --color-text: var(--color-white);
+    --color-text: var(--color-black);
     --color-bg: var(--color-background);
     --color-bg-alt: var(--color-grey-light);
 }

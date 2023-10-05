@@ -13,7 +13,7 @@ import NotFound from '../views/NotFound.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/rf-contentful-staging',
     name: 'Home',
     component: Home
   },
