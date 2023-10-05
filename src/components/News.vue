@@ -70,7 +70,7 @@ export default {
   .news-container {
     overflow: auto;
     border-radius: 0.25rem;
-    background-color: var(--color-grey-dark);
-    color: var(--color-text);
+    background-color: var(--color-bg-alt);
+    color: var(--color-white);
   }
 </style>

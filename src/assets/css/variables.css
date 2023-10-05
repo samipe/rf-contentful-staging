@@ -72,7 +72,7 @@
 :root {
     --color-text: var(--color-black);
     --color-bg: var(--color-background);
-    --color-bg-alt: var(--color-grey-light);
+    --color-bg-alt: var(--color-grey-dark);
 }
 
 @media (prefers-color-scheme: dark) {
