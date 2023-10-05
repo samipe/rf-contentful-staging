@@ -1,3 +1,4 @@
+import News from './News.vue'
 import NewsBanner from './NewsBanner.vue'
 import Banner from './Banner.vue'
 import RoboconBanner from './RoboconBanner.vue'
@@ -24,6 +25,7 @@ import RobotIcon from './icons/RobotIcon.vue'
 import DocumentIcon from './icons/DocumentIcon.vue'
 
 export {
+  News,
   NewsBanner,
   Banner,
   RoboconBanner,

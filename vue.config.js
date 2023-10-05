@@ -3,6 +3,7 @@ const MonacoWebpackPlugin = require('monaco-editor-webpack-plugin')
 
 module.exports = {
   outputDir: 'docs',
+  publicPath: '/rf-contentful-staging',
   productionSourceMap: false,
   devServer: {
     allowedHosts: 'all'

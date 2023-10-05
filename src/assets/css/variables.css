@@ -68,3 +68,17 @@
 
     --border-radius-rounded: 0.2rem;
 }
+
+:root {
+    --color-text: var(--color-white);
+    --color-bg: var(--color-background);
+    --color-bg-alt: var(--color-grey-light);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-text: var(--color-white);
+        --color-bg: var(--color-background-darkmode);
+        --color-bg-alt: var(--color-grey-dark);
+    }
+}
